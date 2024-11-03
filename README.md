@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
+  <img src="./github-header-image.png" alt="Banner"/>
+</div>
 
-<!--
-**Johao-dev/Johao-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨🏻‍💻 &nbsp;Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante de **Desarrollo de Software** con un interés profundo en el **desarrollo backend** y actualmente en busca de **prácticas preprofesionales** donde pueda aplicar y expandir mis conocimientos en un entorno profesional. Estoy motivado para integrarme a un equipo de desarrollo y contribuir a proyectos reales, adaptándome a las tecnologías y lenguajes necesarios. Mi objetivo es crecer tanto personal como profesionalmente, sumando experiencia y valor al equipo.
+
+
+
+---
+<div align="center">
+  <h3>🤝🏻 Contáctame</h3>
+</div>
+
+<p align="center">
+<a href="https://linkedin.com/in/johaoenriquebravoespinoza"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:johaobravoespinoza1501@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://github.com/Bouaskaoun"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-23327FC7.svg?logo=github&logoColor=white"></a>
+</p>
